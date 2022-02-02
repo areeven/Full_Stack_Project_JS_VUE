@@ -1,26 +1,23 @@
 #CopyWrite - Emilie Öst
 # Fullstack Project
 
-### Detta projekt kommer att bestå av en frontend i Vue och en backend i ren javascript
+### This project will persist of a frontend in VueJs, Backend in Express Js and database in MongoDB
 
-# Planering
+# Planning
 
-Jag har under ett år lärt mig React, Express, MongoDB.
-I detta projekt kommer jag att utveckla mina kunskaper.
+For the past year I have learnt React, Express, MongoDB
+In this project I will develop my own knowledge especially using Vue since I haven't used it before.
 
-Jag har innan start av detta projekt inte suttit med Vue mer än någon timme för att lära mig 
-grunden till ett projekt och hur det fungerar.
-
-Så mitt projekt kommer bestå av en databas i MongoDB och hanteras i docker\
-Min backend kommer att bestå av en Server i JavaScript med Express\
-Frontend kommer således vara i VueJs.\
-projektet kommer också att vara i github och det är tänkt att testa Asana för projektplanering
+So my project will consist of a database in MongoDB which I will manage in Docker\
+My backend will consist of a server in JavaScript using Express\
+Frontend will then of course be using VueJs\
+Last but not least I will host my files on GitHub for the public\
+I will also try out Asana for project-planning
 
 ---
 
-Planen är att jag ska göra en backend - jag använder Server.js för att skapa min brygga mellan filer samt
-databas och frontend. Det som ska finnas med i min backend-dir är följande:\
+So the plan is to make a backend in Server.js in my backend-directory. This will be used as a bridge
+between my database and frontend. What will exist in my backend-directory is following: \
 NPM - 
-- Express för att kunna lyssna efter portar
-- 
+Express to listen for ports and get information using CRUD
 
