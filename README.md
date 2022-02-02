@@ -21,3 +21,19 @@ between my database and frontend. What will exist in my backend-directory is fol
 NPM - 
 Express to listen for ports and get information using CRUD
 
+
+# Desired Outcome
+I will be designing a database that tells what weather it is, with CRUD you can update and input the
+weather. You can also delete a specific weather.
+I am thinking of firstly making a page where I can see that everything is working\
+Then I want to add content like icons and images to make it more lively.
+
+I'm thinking of an orange theme, soft orange: `#ffd6ad - rgba(255, 214, 173, 1)`\
+Navigation using a darker, harder orange: `#b25800, rgba(178, 88, 0, 1)`
+
+## Wireframes
+
+![image](images-documentation/wireframe.png)
+
+
+
